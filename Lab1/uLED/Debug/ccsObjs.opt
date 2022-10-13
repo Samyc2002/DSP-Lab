@@ -1,0 +1,1 @@
+"./main.obj" "./uled_test.obj" "../lnkx.cmd" -l"libc.a" -l/opt/ti/ccsv6/ccs_base/emulation/boards/usbstk5515_v1/lib/usbstk5515bsl.lib 
